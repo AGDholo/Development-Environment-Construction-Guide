@@ -13,6 +13,10 @@ Development environment construction guide
 
 前往 [1.1 序言](1.1序言.md) 查看
 
+## 在线阅读
+
+GitBook： https://learn.epicdata.net/development-environment-construction-guide/
+
 ## 社区支持
 
 在 [EpicLearn QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  进行讨论反馈
