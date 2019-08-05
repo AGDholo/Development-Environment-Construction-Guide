@@ -4,4 +4,7 @@
     * [1.3 反馈纠错](1.3反馈纠错.md)
     * [1.4 捐助作者](1.4捐助作者.md)
 * [第二章. 必备环境](第二章.必备环境.md)
-    * [2.1 Visual Studio Code](2.1Visual-Studio-Code.md)
+    * [2.1 前言](2.1前言.md)
+    * [2.2 PowerShell Core](2.2PowerShell-Core.md)
+    * [2.3 Visual Studio Code](2.3Visual-Studio-Code.md)
+    * [2.4 Git](2.4Git.md)
