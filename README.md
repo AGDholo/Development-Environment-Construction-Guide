@@ -5,10 +5,6 @@
 开发环境搭建指南  
 Development environment construction guide
 
-## 进度
-
-本书还未完全发布，正在编写中。
-
 ## 涉及内容
 
 前往 [1.1 序言](1.1序言.md) 查看
