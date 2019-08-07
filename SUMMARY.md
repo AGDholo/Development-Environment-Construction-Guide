@@ -9,7 +9,11 @@
 
     - [2.1 前言](2.1前言.md)
     - [2.2 Chocolatey](2.2Chocolatey.md)
-    - [2.3 PowerShell Core](2.3PowerShell-Core.md)
-    - [2.4 Visual Studio Code](2.4Visual-Studio-Code.md)
-    - [2.5 Git](2.5Git.md)
+    - [2.3 Visual Studio Code](2.3Visual-Studio-Code.md)
+    - [2.4 Git](2.4Git.md)
+
+* 第三章. 命令行工具
+
+    - [3.1 前言](3.1前言.md)
+    - [3.2 PowerShell Core](3.2PowerShell-Core.md) 
 
